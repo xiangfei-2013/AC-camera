@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
-AC Camera
+## Welcome to "AC Camera" Pages
 
 Contact:xiangfei0@icloud.com
